@@ -11,7 +11,7 @@ programming fun. Dive in and let the coding adventures begin!"
 
 Questions
 ------------
-1.  All questions from [2023](./questions/questions_2023.md)
-2.  All questions from [2022](./questions/questions_2023.md)
-3.  All questions from [2021](./questions/questions_2023.md)
 
+1. 🌡 All questions from [2023](./questions/questions_2023.md)
+2. 🍪 All questions from [2022](./questions/questions_2023.md)
+3. ⏰ All questions from [2021](./questions/questions_2023.md)
